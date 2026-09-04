@@ -175,8 +175,8 @@ Users can perform dynamic, self-service analysis without needing to write querie
 ## 📂 Repository Contents
 
 ```
-├── Maven_Toys_Sales_Analysis.pbix   # Power BI report file
-└── README.md                        # Project documentation
+├── Maven_Toys_Sales_Analysis_BI.pbix   # Power BI report file  #products.csv  #store.csv
+└── README.md                           #inventory(1).csv       #sales.csv
 ```
 
 The report includes both the **Executive Summary** and **Detailed Analysis** views described above.
